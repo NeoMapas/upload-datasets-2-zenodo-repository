@@ -1,0 +1,26 @@
+{
+'metadata': {
+'access_right': 'embargoed',
+'embargo_date': '2020-03-21',
+'communities': [{'identifier': 'neomapas'}],
+'description': '<p>Este conjunto de datos incluye tablas resumen con los datos de las cámaras, eventos de fototrampeo e identificaciones utilizados en la publicación  <strong>Interannual and daily activity patterns of mid-sized mammals in Maracaibo Lake Basin, Venezuela</strong>.\n\n<p>La colección de fotografías se encuentra disponible en los conjuntos de datos relacionados.</p>',
+'keywords': ['Biodiversity','Wildlife','Terrestrial','Camera trap','Venezuela','Zulia','vertebrates'],
+'language': 'esp',
+'license': 'CC-BY-4.0',
+'notes': "Parte de la publicación: ... \n\n Apoyo financiero y permisos.",
+'publication_date': '2019-10-23',
+'title': 'Registro fotográfico de mamíferos en el Parque Recreativo Burro Negro y la Reserva Nacional Hidráulica de Pueblo Viejo, estado Zulia, Venezuela',
+'upload_type': 'dataset',
+'version': '1.0.0',
+'creators': [
+  {'affiliation': 'Instituto Venezolano de Investigaciones Científicas', 'name': 'Ferrer-Paris, Jose R.', 'orcid': '0000-0002-9554-3395'},
+  {'affiliation': 'Instituto Venezolano de Investigaciones Científicas', 'name': 'Sánchez-Mercado, Ada', 'orcid': '0000-0001-5030-2128'},
+  {'affiliation': 'Instituto Venezolano de Investigaciones Científicas', 'name': 'Morán, Lisandro', 'orcid': '0000-0001-5346-5205'},
+],
+'related_identifiers':[
+  {'identifier': '10.12933/therya-18-616', 'relation': 'isSupplementTo', 'resource_type': 'journal', 'scheme': 'doi'}
+  {'identifier': '10.5281/zenodo.%s' , 'relation': 'isDerivedFrom', 'resource_type': 'dataset', 'scheme': 'doi'},
+]
+
+}
+}
